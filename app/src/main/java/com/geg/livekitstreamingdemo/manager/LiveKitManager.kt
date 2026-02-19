@@ -25,7 +25,7 @@ class LiveKitManager (
     private val context: Context
 ) {
 
-    private val livekitServerUrl = "wss://test-b4x6fxz3.livekit.cloud" // SET WEBSOCKET URL HERE
+    private val livekitServerUrl = "" // SET WEBSOCKET URL HERE
 
     // used to cancel the coroutine scope if necessary
     private val serviceJob = SupervisorJob()

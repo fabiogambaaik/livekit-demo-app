@@ -18,7 +18,7 @@ public class TokenRequester {
 
     private static final String ENDPOINT = "https://cloud-api.livekit.io/api/sandbox/connection-details";
 
-    private static final String SANDBOX_ID = "ultra-topology-13lkd8"; // SET SANDBOX_ID HERE
+    private static final String SANDBOX_ID = ""; // SET SANDBOX_ID HERE
 
     private LiveKitManager liveKitManager;
 
